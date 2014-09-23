@@ -130,7 +130,7 @@ This generates the Mobile API for all platforms under the <code>mobile/</code> d
 
 #### For Android
 
-First, install the [rest2mobile Android SDK](https://github.com/magnetsystems/r2m-sdk-android) by modifying your app's build.gradle, as described [here](https://github.com/magnetsystems/rest2mobile/wiki/rest2mobile-setup-studio#update-the-build-file)
+First, install the [rest2mobile Android SDK](https://github.com/magnetsystems/r2m-sdk-android) by modifying your app's build.gradle, as described [here](https://developer.magnet.com/android/)
 
 Then call the method in <code>mobile/android/com/magnet/controller/api/RestController.java</code>:
 ```java
